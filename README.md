@@ -1,11 +1,11 @@
 ## Hi! I am Jean Ferreira, Back-end developer ⚙️
-• 🔭I'm looking for a work in developer back-end<br/>
+• 🔭I'm looking for a work in developer Back-end<br/>
 • 🌱I'm learning HTML and CSS<br/>
 • 👨‍💻I'm looking for new professional challenges and an effective market position. The development of my skills and the generation of positive results are my goals, so that it is possible to enable a qualitative and quantitative growth of the company.
 
 [![nkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-wilson-ferreira-440035233)
 
-![Jeanferreiradev GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFerreiradev&show_icons=true&theme=radical)
+![Jeanferreiradev GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFerreiradev&show_icons=true&theme=dark)
 
 ## Tecnologies
 <div style="display: inline_block"><br/>
