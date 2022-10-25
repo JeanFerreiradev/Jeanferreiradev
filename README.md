@@ -5,7 +5,7 @@
 
 [![nkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-wilson-ferreira-440035233)
 
-![Jeanferreiradev GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFerreiradev&show_icons=true&theme=cobalt)
+![Jeanferreiradev GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFerreiradev&show_icons=true&theme=radical)
 
 ## Tecnologies
 <div style="display: inline_block"><br/>
