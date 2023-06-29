@@ -1,5 +1,6 @@
 ## Hi! I am Jean Ferreira, Back-end developer ⚙️
 • 🔭I'm looking for a work in developer Back-end<br/>
+• 🌱I'm learning Java<br/>
 • 🌱I'm learning HTML and CSS<br/>
 • 👨‍💻I'm looking for new professional challenges and an effective market position. The development of my skills and the generation of positive results are my goals, so that it is possible to enable a qualitative and quantitative growth of the company.
 
